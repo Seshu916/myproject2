@@ -11,5 +11,6 @@ class Condition3{
         }else{
             System.out.println("age not enough for blood donation");
         }
+        System.out.println("hiii")
     }
 }
